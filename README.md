@@ -1,36 +1,32 @@
-## Kim su been 👩‍💻
 
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<!-- 
+<div align=center>
  
-[![Notion Badge](http://img.shields.io/badge/Notion-black?style=flat-square&logo=Notion&link=https://elegant-syrup-933.notion.site/Hello-I-m-Minjae-b4dcbf3e70994e3986ccdfff964a9ced)](https://elegant-syrup-933.notion.site/Hello-I-m-Minjae-b4dcbf3e70994e3986ccdfff964a9ced)
- -->
-
- ## Profile
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KimSubeen&fontSize=90)
  
-- 🔮 Sungshin Women's University  
--- Department of Computer Engineering
+<div align=center><h1>👋 Hi, I’m Kim subeen </h1></div>
 
-<!-- 
-[![Mini-min's github stats](https://github-readme-stats.vercel.app/api?username=mini-min&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mini-min&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Study 💻
-Project using the following languages :
 
-| Language/Framework | Project |
-| ------ | ------ |
-| ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white) | Swift Study & iOS Development |
-| ![Python](https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white) | Python Study & Algorithm |
-| ![C++](https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white) | C++ Study|
+### 🙋‍♀️ Profile
+
+ 
+#### 🔮 Sungshin Women's University  
+##### - Department of Computer Engineering
+
+
+
+### 🛠 Tech Stack
+   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/> <img src="https://img.shields.io/badge/Python-blue?style=flat-square&logo=Python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/Java-blue?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/> 
+   
+ <img src="https://img.shields.io/badge/css-blue?style=flat-square&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+ 
+ 
+   
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=papajj06&show_icons=true&theme=radical) 
+
+
+</div>
 
 
 
