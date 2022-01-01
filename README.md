@@ -34,8 +34,7 @@ Project using the following languages :
 
 
 
-## Work Experienc😍
-<!-- - Student Council of Publicity Department of Physical Education (2020.03.~ 2020.12)
-- ETOOS THINKTANK a university student researcher (2021.01. ~ 2021.06.)
-- 28th SOPT iOS Part YB (2021.03. ~ 2021.07.)
-- CJ UNIT SW Creative Camp 5th (2021.08. ~ 2021.12.)  -->
+<!-- 🛠 Skill 🛠
+Kotlin Android Java
+
+Flutter Dart C++ Python Spring -->
