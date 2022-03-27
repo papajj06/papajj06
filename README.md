@@ -1,11 +1,5 @@
 
 <div align=center>
- 
- ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=KimSubeen&fontSize=90)
- 
-<div align=center><h1>👋 Hi, I’m Kim subeen </h1></div>
-
-
 
 ### 🙋‍♀️ Profile
 
