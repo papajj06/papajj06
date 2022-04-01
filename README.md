@@ -1,7 +1,7 @@
 
 <div align=center>
 
-### 🙋‍♀️ Profile
+## 🙋‍♀️ Profile
 
  
 #### 🔮 Sungshin Women's University  
