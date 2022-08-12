@@ -1,9 +1,10 @@
 
 <div align=center>
 
-## 🙋‍♀️ Profile
+## 🙋‍♀️ Subeen's Profile
 
- 
+
+
 #### 🔮 Sungshin Women's University  
 ##### Department of Computer Engineering
 
